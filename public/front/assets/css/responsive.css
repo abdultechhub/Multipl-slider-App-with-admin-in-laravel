@@ -1,0 +1,550 @@
+@media (min-width: 1400px) {
+
+    .expert-speak-slider.swiper {
+        padding-bottom: 25px;
+        height: 600px;
+    }
+
+    .yak-ingrediants-slider:before {
+        height: 545px;
+    }
+
+}
+
+@media (max-width: 1399.98px) {
+    .nutritional_info h4 {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    #gut-immunity {
+        padding-top: 0;
+    }
+}
+
+@media (max-width:1199px) and (min-width:1024px) {
+    .navbar>ul>li {
+        padding: 20px 0px;
+    }
+
+    .navbar a,
+    .navbar a:focus {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 991.98px) and (min-width:767.98px) {
+    .benefits-of-lcs .page-title br {
+        display: none;
+    }
+
+    .benefits-of-lcs .page-title {
+        font-size: 1.5rem;
+    }
+
+    .Slider AppLady {
+        display: none;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .yaktable {
+        background-color: #00a6ca;
+        margin: 30px 0;
+    }
+
+    .yak-ingrediants-slider:after {
+        content: '';
+        background-color: #00A6CA;
+        width: 100%;
+        height: 475px;
+        top: 15px;
+        position: absolute;
+    }
+
+    .lcs-brief {
+        max-height: initial;
+        margin-bottom: 25px;
+    }
+
+    .expert-speak-slider .swiper-slide {
+        height: 345px;
+    }
+
+    #gut-immunity {
+        padding-top: 0;
+    }
+
+    .gut-immunity-content p {
+        min-height: 190px;
+    }
+
+    .where-to-buy {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+
+    .lcs-listpara .lcs-listcol:before {
+        left: -40px;
+        font-size: 3rem;
+    }
+
+    .lcs-listcol {
+        margin-left: 75px;
+    }
+
+    .Slider App-healthy:after {
+        display: none;
+    }
+
+    .y-orderDetails .order-content {
+        padding-bottom: 15px;
+    }
+
+    /** About Us Page **/
+
+    .p-6 {
+        padding: 2rem !important;
+    }
+
+    .Slider App-factory-content {
+        position: relative;
+        color: #000;
+    }
+
+    .Slider App-factory-content h1 {
+        color: var(--secondary-color);
+    }
+
+    .mt-n50 {
+        margin: 0;
+    }
+
+    .yr-top-content {
+        background-color: var(--light-green-bg);
+        padding: 30px !important;
+        border-radius: 20px;
+        margin-top: -20px;
+        margin-bottom: 50px;
+    }
+
+    .probiotic-with-world p br {
+        display: none;
+    }
+
+    .whydrink-Slider App .whydrink-content h2 {
+        font-size: 2rem;
+        line-height: 34px;
+    }
+
+}
+
+@media (max-width: 767.98px) {
+    .ybd-icon {
+        padding: 0;
+    }
+
+    .yr-top-content {
+        background-color: #fff;
+        box-shadow: rgba(20, 10, 38, 0.15) 0px 46px 90px -23px;
+    }
+
+    .e-commerceLogo-row {
+        display: grid !important;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+    }
+
+    #Slider App-factory {
+        padding-bottom: 0;
+    }
+
+    .Slider App-research {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+
+    .abt_Slider App_title {
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .abt_Slider App_wrap {
+        gap: 10px;
+        margin-top: 40px;
+    }
+
+    #display_address {
+        display: block;
+    }
+
+    .address_inn {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .find-form span.select2 {
+        width: 100% !important;
+        margin-bottom: 15px;
+    }
+
+    .address_inn {
+        width: 100% !important;
+        margin-bottom: 15px;
+    }
+
+    .ds-content h2 {
+        font-size: 28px;
+    }
+
+    .ds-immunity img {
+        width: 50%;
+        margin: 0 auto;
+        display: table;
+    }
+
+    .customers-videoes img {
+        width: 90%;
+        box-shadow: 1px 5px 10px 10px rgb(0 0 0 / 20%);
+    }
+
+    .wdy-slider .swiper-slide img {
+        padding: 0 10px;
+    }
+
+    .md-mid-wrap {
+        padding: 30px 20px 25px 55px;
+    }
+
+    .social-media li a {
+        text-align: center;
+    }
+
+    .yak-ingrediants-slider:after {
+        display: none;
+    }
+
+    .yak-work-content {
+        padding: 45px 0px 45px 0px;
+        color: #fff;
+    }
+
+    .swiper-button-next::after {
+        font-size: 25px;
+    }
+
+    .swiper-button-prev::after {
+        font-size: 25px;
+    }
+
+    #gut-immunity {
+        padding-top: 0;
+    }
+
+    .lcs-listcol {
+        margin-left: 75px;
+    }
+
+    .lcs-listpara .lcs-listcol:before {
+        left: -60px;
+        font-size: 5rem;
+    }
+
+    .environment-content {
+        position: relative;
+        padding: 25px;
+        color: #000;
+    }
+
+    .environment-section h3.page-title {
+        color: #000;
+        font-size: 2rem;
+    }
+
+    .environment-section h3.page-title br {
+        display: none;
+    }
+
+    .waste-packers-content {
+        padding: 25px;
+    }
+
+    .ybd-icon {
+        text-align: center;
+    }
+
+    .text-right {
+        text-align: center;
+    }
+
+    .plastic-pllution h2 br {
+        display: none;
+    }
+
+    .yak-ingrediants-slider:before {
+        background-color: #fff;
+    }
+
+    .yaktable {
+        background-color: #ed174f;
+        margin-top: 0;
+    }
+
+    .yak-ingreslider img {
+        padding: 25px 0px;
+    }
+
+    .yakbottle img {
+        right: 0;
+    }
+
+    .yak-work-content h3 {
+        padding-top: 0;
+        font-size: 3.5rem;
+    }
+
+    .yak-workpara {
+        padding: 25px 0px;
+    }
+
+    .lcs-brief {
+        max-height: inherit;
+    }
+
+    .yak-ingrediants-slider {
+        padding-top: 0;
+    }
+
+    .Slider AppLady {
+        position: relative;
+    }
+
+    .city-contactCol {
+        width: 45%;
+    }
+
+    .form_info {
+        margin-top: 35px;
+    }
+
+    .footer-bottom {
+        display: block !important;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .yak-ingreslider img {
+        width: 50%;
+        margin: 0 auto;
+        display: table;
+        padding-top: 0;
+    }
+
+    #Slider App-slider {
+        height: 100%;
+    }
+
+    section {
+        padding: 50px 0;
+        overflow: hidden;
+    }
+
+    .latest-tvc h1 {
+        font-size: 2.5rem;
+    }
+
+    .latest-tvc .video-panel {
+        margin-bottom: 25px;
+    }
+
+    .title-section br {
+        display: none;
+    }
+
+    /** .expert-speak .pagination-button { display: none;}
+    .expert-speak-slider.swiper { padding-bottom: 0;}
+    .expert-speak { padding-bottom: 0;} **/
+    #gut-immunity {
+        padding-top: 0;
+    }
+
+    .gut-immunity {
+        background-position: center center;
+        height: auto;
+        background-image: url(../img/gut-immunitybg-mobile.jpg);
+    }
+
+    .Slider App-light-content {
+        padding: 50px 0px;
+    }
+
+    .gut-immunity-content p {
+        min-height: 130px;
+    }
+
+    .customers-videoes .customer-video {
+        margin-top: 25px;
+        text-align: center;
+    }
+
+    .where-to-buy {
+        padding-top: 0;
+        padding-bottom: 25px;
+    }
+
+    .buy-content {
+        position: inherit;
+    }
+
+    .buy-content h3 {
+        position: absolute;
+        top: -85px;
+        text-align: center;
+        left: 50%;
+        transform: translateX(-50%);
+        color: #fff;
+        font-size: 1.2rem;
+    }
+
+    .buy-content .buy-button {
+        margin-top: 20px;
+    }
+
+    .subscribe-section {
+        padding-top: 50px;
+    }
+
+    .footer-bot-navigation ul {
+        text-align: center;
+    }
+
+    .footer-bot-navigation ul li a {
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+
+    .expert-speak-slider .swiper-slide {
+        height: 400px;
+    }
+
+    .vidP .innerPop {
+        max-width: 90%;
+    }
+
+    .vidP .innerPop .videoWrap iframe {
+        min-width: 80vw;
+        min-height: 80vh;
+    }
+
+    /** Immunity Page **/
+
+    .ypm-text {
+        position: relative;
+        color: #000;
+        padding-top: 25px;
+    }
+
+    .dgs-content-left,
+    .dgs-content-right {
+        padding: 20px;
+        margin-bottom: 15px;
+    }
+
+    .dgs-content-left p,
+    .dgs-content-right p {
+        margin: 0;
+    }
+
+    .good-health {
+        padding: 50px 0px 0px;
+    }
+
+    .good-health.veg-icon:before {
+        display: none;
+    }
+
+    /** About Slider App Strain Page **/
+
+    .ays-icons-col {
+        text-align: center;
+    }
+
+    .red-circle {
+        margin: 0 auto;
+    }
+
+    .ays-icons-col p {
+        margin-top: 15px;
+    }
+
+    .red-text br,
+    .lcs-listcol:after {
+        display: none;
+    }
+
+    .lcs-listcol {
+        margin-right: 10px;
+    }
+
+    .wlcs-listcol {
+        padding: 0px 5px;
+        display: inline-table;
+        margin-bottom: 25px;
+    }
+
+    .wlcs-listcol .wlcs-icons {
+        width: 120px;
+        height: 120px;
+    }
+
+    .page-title br {
+        display: none;
+    }
+
+    .Slider App-healthy {
+        background-color: #ffe9eb;
+        background: linear-gradient(to right, #ffe9eb 50%, #ffe9eb 50%);
+    }
+
+    .yh-content {
+        padding: 0px 15px;
+    }
+
+    .shadow-title {
+        font-size: 5rem;
+        opacity: 0.1;
+        bottom: -25px;
+        line-height: 112px;
+    }
+
+    .wdy-slider {
+        width: 100%;
+    }
+
+    .whydrink-section {
+        min-height: 950px;
+    }
+
+    .whydrink-content {
+        padding-bottom: 25px;
+    }
+
+    .form_info {
+        padding: 20px;
+    }
+
+    .form_content {
+        gap: 15px;
+    }
+
+    .form_con_last_sec {
+        gap: 15px;
+    }
+
+    .info_icon1 img {
+        width: 75px;
+        height: 31px;
+    }
+
+}
